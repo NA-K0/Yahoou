@@ -1,0 +1,2 @@
+# Yahoou
+Yahoo Subdomain sorgu
